@@ -1,0 +1,4 @@
+# paquetes
+fastapi
+uvicorn[standard]
+pydantic
